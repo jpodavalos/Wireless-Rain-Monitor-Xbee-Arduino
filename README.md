@@ -1,5 +1,5 @@
 # Wireless-Rain-Monitoring-Xbee-Arduino
-A simple wireless rain monitor using Xbee S2C together with Rain Sensor, LCD, and GSM for SMS notification
+A simple wireless rain monitoring system that is compose of one Xbee for transmitting and one for receiving. When the rain sensor outputs digital HIGH, it will be sent to the receiving Xbee and will send an SMS to the indicated phone number.
 
 ## Hardware Requirements
 * 1 LCD with I2C driver
