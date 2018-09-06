@@ -1,0 +1,13 @@
+References:
+http://www.geeetech.com/wiki/index.php/Arduino_GPRS_Shield
+https://www.elecrow.com/wiki/index.php?title=XBee_shield
+http://www.hobbytronics.co.uk/xbee-s2c-configuration
+
+
+XBEE SETTINGS
+ROUTER
+SH: 13A200
+SL:41258121
+
+PAN ID: 405F
+SCAN SCHANNEL 1
